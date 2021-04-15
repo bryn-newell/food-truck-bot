@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "google-auth-library": "^1.6.1",
-    "googleapis": "^27.0.0",
+    "googleapis": "^39.1.0",
     "node-fetch": "^2.6.1",
     "node-google-calendar": "^1.1.1",
     "nodemon": "^1.18.11",
